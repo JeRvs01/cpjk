@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="cpjk:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/cpjk_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="cpjk/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="cpjk" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
